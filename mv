@@ -1,0 +1,3 @@
+mv is used to move a file from one location to another. 
+The syntax for this command is:
+mv fileName NewLocationOfFile/fileName
