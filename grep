@@ -1,0 +1,4 @@
+Like we use find to search for specific files within a directory, grep is used to search for particular things within the files themselves
+The syntax for grep is:
+
+grep whateverYouAreSearchingFor .whatKindOfFileYouWantItToSearchIn
